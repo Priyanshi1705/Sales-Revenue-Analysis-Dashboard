@@ -45,7 +45,8 @@ Sales-Revenue-Analysis-Dashboard
 
 Add the screenshot below after uploading it to GitHub.
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Images/Dashboard_1.png)
+![Dashboard](Images/Dashboard_2.png)
 
 ## 🚀 How to Use
 
